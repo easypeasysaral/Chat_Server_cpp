@@ -29,13 +29,19 @@ Technology Stack
 | Concurrency            | `std::thread`, `std::mutex`  |
 | Operating System       | Linux / Unix-based            |
 | Compiler               | g++                           |
+
+
 Project Structure
+
 C++- ChatServer/
 │
-├── server.cpp      # Server-side implementation
+├── main.cpp      # Server-side implementation
 ├── client.cpp      # Client application
-├── README.md       # Project documentation
-└── Makefile        # Optional build automation
+
+
+Client 1 ─┐
+Client 2 ─┼──> Server Socket ──> Thread per Client ──> Broadcast
+Client 3 ─┘
 
 Installation & Execution
 Clone Repository
