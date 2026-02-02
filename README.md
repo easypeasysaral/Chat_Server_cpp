@@ -109,3 +109,11 @@ This project demonstrates practical experience with:
 •	Resource synchronization techniques
 •	Real-time communication systems
 •	Backend architecture principles
+
+
+<img width="1479" height="763" alt="Screenshot 2026-02-03 025725" src="https://github.com/user-attachments/assets/d7345c9c-182f-4727-9c30-30051c2102ec" />
+
+
+<img width="1429" height="586" alt="Screenshot 2026-02-03 025757" src="https://github.com/user-attachments/assets/5eeac149-1a73-4a0b-b918-028e6eeca988" />
+
+
